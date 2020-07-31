@@ -15,7 +15,7 @@ block well.
 2. Camel spacing ( naming convention ) should be used to
 declare variables and function names.
 
-Conditions to be followed:
+Conditions followed:
 1. Percentage symbol is must.
 2. The discount percent should be in round off form.
 
@@ -45,7 +45,7 @@ Mobin has developed an Application that displays the
 temperature. His Application displays the temperature in two
 conditions :
 
-➢ If greater than 23.5 °C, print its’ a hot day
+➢ If greater than 23.5 °C, print its’ a hot day   
 ➢ If it's less than 23.5 °C, print it's a cold day.
 
 Define a function 'Temperature' for finding the condition of the day.
@@ -61,15 +61,17 @@ the Day.
 Section : 1.4 ( Scope) :
 
 Description:
-function fun() {
+function fun()   
+{ <br>
 let localLet = "This is a local variable";
 console.log(globalLet);
-console.log(localLet);
-}
+console.log(localLet); <br>
+} <br>
 Write the missing code.
 
 Instruction:
 1. Declare the global variable using 'globalLet ' as a variable to
 complete the code and display the output.
 
-######             Completed all these tasks to the given instructions and conditions in this repository(JavaScript-basicConcepts1)
+#####             Completed all these tasks to the given instructions and conditions in this "JavaScript-basicConcepts1" repository
+                      #### HAPPY LEARNING :smiley:
