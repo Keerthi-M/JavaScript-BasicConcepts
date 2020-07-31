@@ -74,4 +74,4 @@ Instruction:
 complete the code and display the output.
 
 #####             Completed all these tasks to the given instructions and conditions in this "JavaScript-basicConcepts1" repository
-                      #### HAPPY LEARNING :smiley:
+####                                                            HAPPY LEARNING :smiley:
