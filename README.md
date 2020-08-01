@@ -74,4 +74,4 @@ Instruction:
 complete the code and display the output.
 
 #####             Completed all these tasks to the given instructions and conditions in this "JavaScript-basicConcepts1" repository
-<p style = "text-allign: cente">HAPPY LEARNING :smiley:</p>
+<p style = "text-allign:center">HAPPY LEARNING :smiley:</p>
