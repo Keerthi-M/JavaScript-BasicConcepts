@@ -7,12 +7,12 @@ and conditionals must be used */
 
 
 // Initializing variables using "var" keyword
-var mailAccount = "false";
-var facebookAccount = "false";
-var googleAccount = "true";
+var mailAccount = false;
+var facebookAccount = false;
+var googleAccount = true;
 
 // AND operator is used to get the output "Login is successful" as Tom login using Google account
-if(mailAccount && facebookAccount =="true")
+if(mailAccount && facebookAccount == true)
 {
 console.log('Login failed');
 }
